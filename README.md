@@ -1,2 +1,2 @@
-# POAEstimation
-Code for Polarimetric Orientation Angle Estimation Research Paper.
+#  Polarimetric Orientation Angle Estimation using Stochastic Distance : An Analytical Approach  
+Code for the Research Paper will be released after publication. 
